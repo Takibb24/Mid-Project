@@ -1,0 +1,61 @@
+
+.navbar {
+    background-image: url(occ.jpg);
+    color: #191616;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.navbar ul a {
+    display:block;
+    justify-content: right;
+    color: rgb(237, 237, 222);
+    text-align: right;
+    font-variant: normal;
+    margin-right: 10px;
+    text-decoration-color: white;
+}
+
+.Micro {
+    padding-top: 10px;
+    text-align: centre;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: aliceblue;
+}
+
+.micropic {
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-inline: 20px;
+
+}
+
+.button {
+    display:flex;
+    padding: 10px 20px;
+    text-decoration:solid;
+    background-color: rgb(79, 29, 29);
+    color: red;
+    border-radius: 5px;
+    cursor:cell;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.oop{
+    padding-top: 10px;
+    text-align: centre;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-decoration-color: white;
+    color: aliceblue;
+    
+}
+.whole{
+    background-image: url(occ.jpg);
+    padding: 10px;
+    border-radius: 5%;
+}

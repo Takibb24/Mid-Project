@@ -1,0 +1,84 @@
+/* Reset default styles */
+
+body {
+    border-radius: 20%;
+}
+
+/* Style the navigation bar */
+.navbar {
+    background-color: #333;
+    color: #891515;
+    padding: 10px 0;
+    background-image: url('bra.jpg');
+    background-size: cover;
+    
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    color: #891515;
+}
+
+.navbar li {
+    margin: 0 20px;
+    color: #fcf8f8;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #301010;
+    font-weight: bold;
+}
+
+
+.images {
+    padding: 10px 0;
+    
+    padding-top: 10px;
+    text-align: centre;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.un {
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+
+.footer {
+    font-size: x-small;
+    padding: 1px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(bra.jpg);
+
+}
+
+.flu {
+    padding: 20px;
+    text-align: center;
+}
+
+.image1 {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    
+    padding: 10px 0;
+}
+.total{
+    background-image: url(joe.jpg);
+    background-size: cover;
+}
+.sear{
+    width: 100%;
+  padding: 10px;
+  border: 1px solid #de2c2c;
+  border-radius: 5px;
+  font-size: 16px;
+  justify-content: right;
+}
