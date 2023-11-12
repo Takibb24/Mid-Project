@@ -10,8 +10,8 @@
     <nav class="navbar">
         <ul>
             <li><a href="#" class="home-button">Home</a></li>
-            <li><a href="file:///D:/mid/CV.html" class="CV-button">CV</a></li>
-            <li><a href="file:///D:/mid/works.html" class="Works-button">Project Works</a></li>
+            <li><a href="CV.html" class="CV-button">CV</a></li>
+            <li><a href="works.html" class="Works-button">Project Works</a></li>
 
         </ul>
         <section class="sear">
@@ -77,9 +77,9 @@
     const searchForm = document.getElementById('searchForm');
 
     if (searchInput === 'cv') {
-      searchForm.action = 'file:///D:/mid/CV.html';
+      searchForm.action = 'CV.html';
     } else if (searchInput === 'projects') {
-      searchForm.action = 'file:///D:/mid/works.html';
+      searchForm.action = 'works.html';
     }
     else {
       searchForm.action = '#'; 
